@@ -1,0 +1,13 @@
+{
+    "name": "Mohan Ram",
+    "employee_id": "10",
+    "address": [
+        {
+            "door_no": "10",
+            "street_name": "Test Street",
+            "city": "Theni",
+            "state": "Tamilnadu",
+            "country": "India"
+        }
+    ]
+}
